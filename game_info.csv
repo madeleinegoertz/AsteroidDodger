@@ -1,0 +1,5 @@
+LevelNum,AsteroidCount,PlayerX,PlayerY,ColorR,ColorG,ColorB
+0,1,20,200,163,102,163
+1,1,20,200,147,76,147
+2,1,20,300,132,50,132
+3,1,0,300,117,25,117
